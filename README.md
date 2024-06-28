@@ -1,6 +1,8 @@
 # Real-Time-Temperature-and-RPM-monitoring-using-Google-Firebase
 This  code snippet is a comprehensive implementation that integrates  temperature and rotary sensors and modules to collect and transmit data.
 
+## Code
+
 ```cpp
 #include <Wire.h>
 #include <mcp2515.h>
