@@ -1,6 +1,21 @@
 # Real-Time-Temperature-and-RPM-monitoring-using-Google-Firebase
 This  code snippet is a comprehensive implementation that integrates  temperature and rotary sensors and modules to collect and transmit data.
 
+## Table of Contents
+
+1. [Includes and Definitions](#includes-and-definitions)
+2. [Wi-Fi and Firebase Configuration](#wi-fi-and-firebase-configuration)
+3. [Rotary Encoder Setup](#rotary-encoder-setup)
+4. [Temperature Sensor Setup](#temperature-sensor-setup)
+5. [CAN Message Structure](#can-message-structure)
+6. [State Machine Setup](#state-machine-setup)
+7. [Interrupt Service Routine (ISR)](#interrupt-service-routine-isr)
+8. [Function Declaration](#function-declaration)
+9. [Setup Function](#setup-function)
+10. [Main Loop](#main-loop)
+11. [Utility Functions](#utility-functions)
+
+
 ## Code
 
 ```cpp
